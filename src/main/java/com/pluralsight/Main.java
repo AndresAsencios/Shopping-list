@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Lychee");
         System.out.println("Pineapple");
         System.out.println("Soursop");
+        System.out.println("Peach");
     }
 }
